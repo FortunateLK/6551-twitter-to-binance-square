@@ -1,0 +1,11 @@
+{
+  "mode": "search",
+  "keywords": "bitcoin ETF",
+  "max_results": 20,
+  "max_posts_per_run": 5,
+  "dry_run": true,
+  "state_file": "mirror_state.json",
+  "show_source": true,
+  "show_tool_attribution": true,
+  "add_hashtags": ["Bitcoin", "Crypto"]
+}
