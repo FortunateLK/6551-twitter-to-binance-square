@@ -1,0 +1,8 @@
+{
+  "mode": "square_heat",
+  "token": "BTC",
+  "square_max_results": 100,
+  "heat_window_hours": 24,
+  "heat_top_posts": 5,
+  "square_lang": "en"
+}
